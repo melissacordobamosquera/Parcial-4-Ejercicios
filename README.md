@@ -2,7 +2,7 @@
 
 En 1735, el matemático suizo Leonhard Euler resolvió un famoso problema en teoría de números, al mostrar que la suma.
 
-$\sum_{i=0}^n =1 +  \frac{1}{2^2}+ \frac{1}{3^2}+ . . . + \frac{1}{n^2}$
+$$\sum_{i=0}^n =1 +  \frac{1}{2^2}+ \frac{1}{3^2}+ . . . + \frac{1}{n^2}$$
 
 Este código imprime en pantalla la sumatoria anterior hasta un determinado $n$ real.
 
@@ -26,7 +26,7 @@ Los enunciados y ejercicios fueron propuestos por el docente Edison Alejandro Mo
 Este código imprime en pantalla la suma de los primeros n términos 
 de la serie b en un número real $x$
 
-$x + \frac{\ 2^2x^2}{2!} + \frac{\ 3^3x^3}{3!} +\frac{\ 4^4x^4}{4!}+ . . . + \frac{\ i^ix^i}{i!} $
+$$x + \frac{\ 2^2x^2}{2!} + \frac{\ 3^3x^3}{3!} +\frac{\ 4^4x^4}{4!}+ . . . + \frac{\ i^ix^i}{i!}$$
 
 
 Para comprobar que el ejercicio queda bien, puedes evaluar usando los parámetros $x$=1 y $n$=3, como resultado debe darte 7.5
